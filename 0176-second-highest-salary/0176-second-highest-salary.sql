@@ -1,8 +1,8 @@
 SELECT (
-    SELECT MAX(salary)
+    SELECT Max(salary)
     FROM (
         SELECT salary,
-               DENSE_RANK() OVER (ORDER BY salary DESC) AS rnk
+               DENSE_RANK() OVER (ORDER BY salary desc) AS rnk
         FROM Employee
     ) t
     WHERE rnk = 2
