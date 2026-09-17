@@ -1,15 +1,18 @@
-SELECT id, SUM(num) AS num
+# Write your MySQL query statement below
+SELECT id , SUM(num) as num
 FROM (
-    SELECT requester_id AS id, COUNT(*) AS num
+
+
+    SELECT requester_id as id, COUNT(*) as num
     FROM RequestAccepted
     GROUP BY requester_id
-    
+
     UNION ALL
-    
-    SELECT accepter_id AS id, COUNT(*) AS num
+
+    SELECT accepter_id as id, COUNT(*) as num
     FROM RequestAccepted
     GROUP BY accepter_id
-) AS combined
+) AS COMBINED
 GROUP BY id
 ORDER BY num DESC
-LIMIT 1;
+LIMIT 1
