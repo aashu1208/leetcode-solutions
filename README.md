@@ -10,6 +10,7 @@
 | [0608-tree-node](https://github.com/aashu1208/leetcode-solutions/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/aashu1208/leetcode-solutions/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/aashu1208/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/aashu1208/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aashu1208/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/aashu1208/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
