@@ -6,6 +6,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/aashu1208/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/aashu1208/leetcode-solutions/tree/master/0180-consecutive-numbers) |
+| [0585-investments-in-2016](https://github.com/aashu1208/leetcode-solutions/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/aashu1208/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/aashu1208/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/aashu1208/leetcode-solutions/tree/master/0608-tree-node) |
