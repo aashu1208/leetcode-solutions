@@ -14,6 +14,7 @@
 | [0626-exchange-seats](https://github.com/aashu1208/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/aashu1208/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/aashu1208/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/aashu1208/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1341-movie-rating](https://github.com/aashu1208/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aashu1208/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/aashu1208/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
