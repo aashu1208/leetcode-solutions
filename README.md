@@ -16,6 +16,7 @@
 | [0619-biggest-single-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/aashu1208/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/aashu1208/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aashu1208/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/aashu1208/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/aashu1208/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1341-movie-rating](https://github.com/aashu1208/leetcode-solutions/tree/master/1341-movie-rating) |
