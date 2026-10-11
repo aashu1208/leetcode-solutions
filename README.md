@@ -7,6 +7,7 @@
 | [0176-second-highest-salary](https://github.com/aashu1208/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/aashu1208/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/aashu1208/leetcode-solutions/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/aashu1208/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/aashu1208/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/aashu1208/leetcode-solutions/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/aashu1208/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
