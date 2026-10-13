@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +57,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashu1208/leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
