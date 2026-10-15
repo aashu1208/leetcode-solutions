@@ -1,11 +1,8 @@
 # Write your MySQL query statement below
-SELECT name
+SELECT name 
 FROM Employee
-WHERE id IN(
-
-SELECT managerId
+WHERE id IN (SELECT managerId
 FROM Employee
 GROUP BY managerId
-HAVING COUNT(*) >=5
-
+HAVING COUNT(*) >= 5
 )
