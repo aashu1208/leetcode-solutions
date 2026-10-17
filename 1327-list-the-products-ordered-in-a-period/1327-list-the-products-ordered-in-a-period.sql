@@ -7,6 +7,6 @@ JOIN Orders
 ON Products.product_id = Orders.product_id
 WHERE Orders.order_date >='2020-02-01'
 AND Orders.order_date < '2020-03-01'
-GROUP BY Products.product_id, Products.product_name
+GROUP BY Products.product_id
 HAVING unit >= 100
 
