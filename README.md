@@ -16,6 +16,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/aashu1208/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/aashu1208/leetcode-solutions/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/aashu1208/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/aashu1208/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/aashu1208/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aashu1208/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
