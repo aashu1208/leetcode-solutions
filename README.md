@@ -23,6 +23,7 @@
 | [1068-product-sales-analysis-i](https://github.com/aashu1208/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/aashu1208/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/aashu1208/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1211-queries-quality-and-percentage](https://github.com/aashu1208/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aashu1208/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/aashu1208/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aashu1208/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
