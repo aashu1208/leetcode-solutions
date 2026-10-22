@@ -51,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aashu1208/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashu1208/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/aashu1208/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aashu1208/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aashu1208/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
