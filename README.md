@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aashu1208/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aashu1208/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aashu1208/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
