@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/aashu1208/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aashu1208/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aashu1208/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/aashu1208/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aashu1208/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -73,12 +74,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashu1208/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aashu1208/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Math
@@ -96,5 +99,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
