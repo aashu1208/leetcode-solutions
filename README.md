@@ -51,6 +51,7 @@
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aashu1208/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/aashu1208/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Array
@@ -79,6 +80,7 @@
 | [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aashu1208/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/aashu1208/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/aashu1208/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +115,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aashu1208/leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aashu1208/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
