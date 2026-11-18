@@ -1,6 +1,12 @@
 # Write your MySQL query statement below
+WITH CTE AS (
+
+    SELECT salary,
+    DENSE_RANK() OVER(ORDER BY salary DESC) as dr
+    from Employee
+
+)
+
 SELECT MAX(salary) AS SecondHighestSalary
-FROM Employee
-WHERE salary < (SELECT MAX(salary)
-                FROM Employee
-                )
+FROM CTE
+where dr = 2
