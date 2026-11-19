@@ -14,5 +14,5 @@ FROM RequestAccepted
 ) as t
 
 GROUP BY id
-ORDER BY num DESC
+ORDER BY NUM DESC
 LIMIT 1
