@@ -4,7 +4,7 @@ from Employees
 WHERE employee_id not in (SELECT employee_id
                           FROM Salaries)
 
-UNION 
+UNION ALL
 
 
 SELECT employee_id as employee_id
